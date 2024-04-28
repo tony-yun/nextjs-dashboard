@@ -5,6 +5,8 @@ import Link from 'next/link';
 import { lusitana } from './ui/fonts';
 import Image from 'next/image';
 
+// .env 설정 진행해야함
+
 export default function Page() {
   return (
     <main className="flex min-h-screen flex-col p-6">
